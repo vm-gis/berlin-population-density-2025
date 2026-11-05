@@ -1,0 +1,14 @@
+# Original downloaded datasets
+/data/raw/
+
+# Temporary QGIS and GeoPackage files
+*.qgz~
+*.qgs~
+*.gpkg-wal
+*.gpkg-shm
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+.DS_Store
